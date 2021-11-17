@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA7A-1975
+
+ Directory of C:\Users\suraj\OneDrive\Documents\MyGitProject
+
+11/17/2021  11:46 AM    <DIR>          .
+11/17/2021  11:30 AM    <DIR>          ..
+11/17/2021  11:25 AM               370 test.txt
+11/17/2021  11:46 AM                 0 test3.txt
+               2 File(s)            370 bytes
+               2 Dir(s)  298,665,021,440 bytes free
